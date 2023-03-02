@@ -14,9 +14,9 @@ public class Ejercicio_1 {
         EdadAna = (4 * EdadJuan)/3;
         EdadMama = EdadJuan + EdadAlberto + EdadAna;
         
-        System.out.println(EdadJuan);
-        System.out.println(EdadAlberto);
-        System.out.println(EdadAna);
-        System.out.println(EdadMama);
+        System.out.println("LA EDAD DE JUAN ES: " + EdadJuan);
+        System.out.println("LA EDAD DE ALBERTO ES: " + EdadAlberto);
+        System.out.println("LA EDAD DE ANA ES: " + EdadAna);
+        System.out.println("LA EDAD DE LA MAMÁ: " + EdadMama);
     }
 }
